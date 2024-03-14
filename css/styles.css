@@ -1,0 +1,29 @@
+.panda-bg-info{
+
+    background-color: #FEEAE9;
+
+}
+.panda-text-color{
+
+color: #1F1F1F;
+
+    font-family: Poppins;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+}
+.panda-btn{
+
+    background-color: rgba(255, 88, 155, 1);
+}
+.catagories img{
+
+    width: 100px;
+   
+        height: 100px;
+   
+
+}
